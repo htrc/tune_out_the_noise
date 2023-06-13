@@ -1,0 +1,21 @@
+T3	LOC 473 483	Rio Grande
+T10	LOC 36 49	Wichita Falls
+T11	PERSON 11 14	MPs
+T21	LOC 534 541	Arizona
+T14	GPE 723 730	Pullman
+T9	GPE 682 689	Barstow
+T8	GPE 656 669	Sierra Nevada
+T7	GPE 613 623	California
+T4	GPE 510 516	Gallup
+T5	GPE 568 577	Flagstaff
+T6	GPE 583 590	Kingman
+T2	GPE 84 92	Amarillo
+T15	PERSON 26.0 29.0	MPs
+T1	PERSON 148.0 151.0	MPs
+T16	LOC 270.0 285.0	Santa Fe train,
+T17	LOC 324.0 335.0	Pullman car
+T18	GPE 383.0 393.0	California
+T19	GPE 446.0 456.0	New Mexico
+T20	GPE 419.0 424.0	Texas
+T12	GPE 487.0 492.0	Belen
+T22	GPE 559.0 566.0	Winslow

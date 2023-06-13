@@ -1,0 +1,21 @@
+T1	LOC 883 892	Patagonia
+T2	LOC 894 903	Sahuarita
+T3	LOC 940 946	Tucson
+T4	LOC 960 966	Deming
+T5	PERSON 147 153	Myrick
+T6	LOC 752 758	Benson
+T7	LOC 909 916	Nogales
+T8	PERSON 980 989	McKissick
+T10	GPE 760 767	Arizona
+T11	GPE 222 242	the Southern Pacific
+T12	GPE 463 483	the Southern Pacific
+T13	ORG 28 52	the Twin Buttes Railroad
+T14	GPE 599 605	Mexico
+T15	GPE 968 978	New Mexico
+T16	GPE 507 524	the United States
+T17	PERSON 244 251	Refugio
+T18	PERSON 131 145	Yaqui refugees
+T19	GPE 0 14	The New Mexico
+T20	ORG 88 116	the Tucson-Nogales railroads
+T21	ORG 54 82	the El Paso and Southwestern
+T22	ORG 0 26	The New Mexico and Arizona

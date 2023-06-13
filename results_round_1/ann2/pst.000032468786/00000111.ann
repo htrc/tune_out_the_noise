@@ -1,0 +1,8 @@
+T4	ORG 206 213	Harvard
+T1	GPE 270 278	New York
+T2	GPE 319 326	Montana
+T3	GPE 330 336	Dakota
+T7	PERSON 206 226	Harvard postgraduate
+T5	PERSON 165.0 181.0	German violinist
+T6	PERSON 185.0 202.0	Harvard professor
+T8	ORG 185.0 192.0	Harvard

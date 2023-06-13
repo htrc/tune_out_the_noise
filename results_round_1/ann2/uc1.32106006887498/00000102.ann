@@ -1,0 +1,11 @@
+T1	PERSON 177 180	Sam
+T2	GPE 129 146	Salt River Canyon
+T5	GPE 239 256	Salt River Canyon
+T4	GPE 344 350	Apache
+T3	GPE 300 306	Apache
+T11	GPE 390 396	Apache
+T6	LOC 110.0 118.0	Mountain
+T7	GPE 187.0 204.0	Salt River Canyon
+T8	LOC 231.0 237.0	canyon
+T9	LOC 262.0 271.0	mountains
+T10	LOC 277.0 284.0	canyons

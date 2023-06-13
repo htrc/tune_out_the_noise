@@ -1,0 +1,15 @@
+T3	ORG 600 603	FBI
+T7	PERSON 359 369	Zitkala-Sa
+T8	GPE 768 780	Osage nation
+T10	PERSON 915 925	Zitkala-Sa
+T11	PERSON 927 933	Fabens
+T17	PERSON 939 946	Sniffen
+T2	LOC 376 384	Oklahoma
+T5	LOC 458 466	Oklahoma
+T6	PERSON 867 883	white Oklahomans
+T12	PERSON 408 425	Poor Rich Indians
+T16	LOC 397 407	Oklahoma's
+T9	GPE 496 501	Osage
+T14	ORG 71 95	Oklahoma state lawmakers
+T13	ORG 4.0 25.0	state bar association
+T1	GPE 214.0 236.0	The federal government
